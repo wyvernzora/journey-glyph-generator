@@ -1,0 +1,61 @@
+﻿// JourneyGlyphGen by Aragorn Wyvernzora
+// http://github.com/jluchiji/journey-glyph-generator
+// Journey glyphs are 3x3 grids with some cells filled
+// '#' represents a filled cell, anything else represents an empty cell.
+// Lines that start with "//" and empty lines in this file are ignored.
+
+__#
+#_#
+__#
+
+__#
+__#
+#_#
+
+#_#
+__#
+#_#
+
+#_#
+#_#
+#_#
+
+#_#
+###
+#_#
+
+__#
+__#
+###
+
+#_#
+__#
+###
+
+__#
+#_#
+###
+
+#_#
+#_#
+###
+
+_##
+_#_
+##_
+
+__#
+_##
+###
+
+#_#
+_##
+###
+
+#__
+__#
+_##
+
+#__
+###
+#__
